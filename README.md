@@ -2,5 +2,5 @@
 |     Name        |     Code      |
 | --------------  |:-------------:|
 |                 | right-aligned | 
-| Face-mask-detection| centered      |  
+| Face-mask-detection| Face-mask-detection-      |  
 | zebra stripes  | are neat      |    
